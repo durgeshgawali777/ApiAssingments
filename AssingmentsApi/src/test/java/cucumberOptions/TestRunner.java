@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 		features="src/test/java/featureFiles",
 		glue="stepDefinition",
 		monochrome = true,
-		tags="@Assingment1"
+		tags="@Assingment6DataProvider"
 		//strict = true
 		//dryRun = false
 		)
